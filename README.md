@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-### Current project to make notes available via GitHub
+### Current project learning to use GitHub
+### I am currently learning Python
+### You can reach me at: p.sinclair@mmu.ac.uk (work)
 <!--
 **PhilipSinclair/PhilipSinclair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
